@@ -29,6 +29,7 @@ practice_algorithm/
 | 번호 | 문제명 | 난이도 | 작성일 | 풀이 | 코드 |
 |------|--------|--------|--------|------|------|
 | 1 | Two Sum | Easy | 2025.09.26 | [📝 풀이](./completed/leetcode/1_TwoSum.md) | [💻 코드](./completed/leetcode/1_TwoSum.py) |
+| 2 | Add Two Numbers | Medium | 2025.09.26 | [📝 풀이](./completed/leetcode/2_Add_Two_Numbers.md) | [💻 코드](./completed/leetcode/2_Add_Two_Numbers.py) |
 
 ### Do it! 알고리즘 코딩테스트
 
@@ -46,7 +47,7 @@ practice_algorithm/
 ## 📊 진행 상황
 
 - **LeetCode Top 150**: 1/150 문제 완료
-- **LeetCode 기타**: 1문제 완료
+- **LeetCode 기타**: 2문제 완료
 - **Do it!**: 1/? 문제 완료
 
 ---
