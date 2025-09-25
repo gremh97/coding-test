@@ -30,7 +30,7 @@ practice_algorithm/
 
 ## 🎯 목표
 
-- [ ] LeetCode Top 100 문제 완주
+- [ ] [LeetCode Top 150 문제](https://leetcode.com/studyplan/top-interview-150/) 완주 
 - [ ] Do it! 알고리즘 코딩테스트 완주
 - [ ] 각 문제별 상세한 풀이 정리
 - [ ] 시간복잡도 및 공간복잡도 분석
