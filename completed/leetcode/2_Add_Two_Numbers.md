@@ -161,13 +161,8 @@ l2_val = l2.val if l2 else 0
 
 **대신 사용 가능한 방법:**
 ```python
-# 방법 1: try-except
-try:
-    l1_val = l1.val
-except AttributeError:
-    l1_val = 0
 
-# 방법 2: and 연산자
+# 방법 1: and 연산자
 l1_val = l1 and l1.val or 0
 ```
 
